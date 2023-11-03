@@ -1,0 +1,65 @@
+ Data Warehouse using IBM Cloud Db2 Warehouse
+
+Project Title : Data Warehousing
+
+Problem  Statement : Design and set up a robust data warehouse using IBM Cloud Db2 Warehouse. Bring together data from various sources to unlock valuable business insights. Perform advanced data integration and transformation effortlessly. Empower data architects to explore, analyze, and deliver actionable data for informed decision-making!
+
+
+Phase 1: Problem Definition and Design Thinking
+        In this part you will need to understand the problem statement and create a document on what have you understood and how will you proceed ahead with solving the problem. Please think on a design and present in form of a document.
+Problem Definition : The project involves designing and setting up a robust data warehouse using IBM Cloud Db2 Warehouse. The objective is to bring together data from various sources, perform advanced data integration and transformation, and provide data architects with the tools to explore, analyze, and deliver actionable data for informed decision-making. This project encompasses defining the data warehouse structure, integrating data sources, performing ETL (Extract, Transform, Load) processes, and enabling data analysis.
+
+
+Table of Contents
+1.Project Overview
+2.Objectives
+3.Scope
+4.Key Deliverables
+5.Conclusion
+
+Project Overview:
+*The project aims to create a comprehensive data warehousing solution by leveraging IBM Cloud Db2 Warehouse. 
+*This data warehouse will serve as a centralized repository for data from diverse sources, enabling advanced data integration, transformation, and analysis.
+*Key components of the project include defining the data warehouse structure, integrating data sources,
+*Implementing ETL (Extract, Transform, Load) processes, and facilitating data exploration and analysis.
+
+Objectives:
+
+The primary objectives of this project are as follows:
+
+1.Design Data Warehouse Structure: Define the architecture, schema, and data models for the data warehouse, ensuring it meets the specific requirements of the organization.
+
+2.Data Integration: Implement mechanisms to collect, cleanse, and integrate data from various sources, including databases, APIs, and external files.
+
+3.ETL Processes: Develop Extract, Transform, Load (ETL) processes to efficiently move data into the data warehouse, ensuring data quality and consistency
+
+4.Data Analysis Tools: Provide data architects with the necessary tools and platforms to explore and analyze data for decision-making purposes.
+ 
+Scope:
+
+The project scope encompasses:
+
+ Identifying and profiling data sources.
+ Designing the data warehouse schema.
+ Developing ETL processes for data extraction, transformation, and loading.
+ Implementing security and access controls.
+ Setting up data visualization and analytics tools.
+ Conducting user training and documentation.
+
+ 
+
+Key Deliverables:
+
+The key deliverables for this project include:
+
+- Data Warehouse Architecture and Schema Design Document.
+- ETL Process Implementation.
+- Data Integration Framework.
+- Security and Access Control Configuration.
+- Data Analysis and Visualization Platform Setup.
+- User Training Materials and Documentation.
+
+Conclusion:
+
+This project proposal outlines the design and implementation of a data warehouse
+using IBM Cloud Db2 Warehouse. By achieving the objectives and delivering the specified scope,the project will enable the organization to harness the power of data for informed decision-making. The successful execution of this project will contribute significantly to the organization's data-driven success.
